@@ -700,7 +700,10 @@ button.cardadd:hover{
 	.deal_content .carousel-control-prev,.deal_content .carousel-control-next{
 		display: none;
 	}
-
+	.thanhtoan_over{
+		width: 100%;
+		padding: 30px;
+	}
 
 }
 
